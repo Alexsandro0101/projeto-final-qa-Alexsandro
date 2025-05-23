@@ -2,7 +2,7 @@
 
 ## 1. Apresentação
 - Nome completo: Alexsandro
-- Curso e semestre: [Seu curso] - [Seu semestre]
+- Curso e semestre: [Gestão De T.I] - [5semestre]
 - Essa disciplina foi essencial para eu entender como os testes garantem a qualidade dos softwares. Aprendi conceitos teóricos e práticos, usando ferramentas como o Google Colab e o GitHub.
 
 ## 2. O que é Quality Assurance (QA)?
